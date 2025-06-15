@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Forward Skin cutting Machine( With Display)",
+        "price": 27500,
+        "available": 1,
+        "image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/jmmIxniW.jpeg",
+        "category": "Skin-cutting machine",
+        "local_image_path": "product_images/Skin-cutting_machine_Forward_Skin_cutting_Machine_With_Display.jpeg",
+        "relative_image_path": "Skin-cutting_machine_Forward_Skin_cutting_Machine_With_Display.jpeg"
+    },
+    {
+        "name": "KORAD KA3005D",
+        "price": 4500,
+        "available": 1,
+        "image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/4vtIsCkD.jpeg",
+        "category": "Power supply",
+        "local_image_path": "product_images/Power_supply_KORAD_KA3005D.jpeg",
+        "relative_image_path": "Power_supply_KORAD_KA3005D.jpeg"
+    },
+    {
+        "name": "FORWARD iOS 16",
+        "price": 52000,
+        "available": 1,
+        "image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/tJWaiZyV.jpeg",
+        "category": "OCA machine",
+        "local_image_path": "product_images/OCA_machine_FORWARD_iOS_16.jpeg",
+        "relative_image_path": "OCA_machine_FORWARD_iOS_16.jpeg"
+    },
+    {
+        "name": "NASAN LCD seperator ",
+        "price": 2900,
+        "available": 1,
+        "image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/woQlOVFz.jpeg",
+        "category": "LCD seperator",
+        "local_image_path": "product_images/LCD_seperator_NASAN_LCD_seperator.jpeg",
+        "relative_image_path": "LCD_seperator_NASAN_LCD_seperator.jpeg"
+    }
+]

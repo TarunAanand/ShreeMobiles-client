@@ -1,0 +1,2423 @@
+[
+	{
+		"name": "MIJING",
+		"price": 800,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/riX5Pdd5.jpeg",
+		"category": "blades",
+		"local_image_path": "product_images\\blades_MIJING.jpeg", 
+		"relative_image_path": "blades_MIJING.jpeg"
+	},
+	{
+		"name": "RF4 Glue Remover Blade And Brush RF-DA10",
+		"price": 950,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/o50Oy2TI.jpeg",
+		"category": "blades",
+		"local_image_path": "product_images\\blades_RF4_Glue_Remover_Blade_And_Brush_RFDA10.jpeg",
+		"relative_image_path": "blades_RF4_Glue_Remover_Blade_And_Brush_RFDA10.jpeg"
+	},
+	{
+		"name": "Relife RL-050",
+		"price": 70,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/kw9KjiMJ.jpeg",
+		"category": "opener",
+		"local_image_path": "product_images\\opener_Relife_RL050.jpeg",
+		"relative_image_path": "opener_Relife_RL050.jpeg"
+	},
+	{
+		"name": "Opener Tool",
+		"price": 100,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/pNWHjhCi.jpeg",
+		"category": "opener",
+		"local_image_path": "product_images\\opener_Opener_Tool.jpeg",
+		"relative_image_path": "opener_Opener_Tool.jpeg"
+	},
+	{
+		"name": "Sunshine Opening Tools",
+		"price": 100,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/awffsdkH.jpeg",
+		"category": "opener",
+		"local_image_path": "product_images\\opener_Sunshine_Opening_Tools.jpeg",
+		"relative_image_path": "opener_Sunshine_Opening_Tools.jpeg"
+	},
+	{
+		"name": "CPU Degumming Crowbar",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/1XQz0k2h.jpeg",
+		"category": "opener",
+		"local_image_path": "product_images\\opener_CPU_Degumming_Crowbar.jpeg",
+		"relative_image_path": "opener_CPU_Degumming_Crowbar.jpeg"
+	},
+	{
+		"name": "Opener",
+		"price": 50,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/bBPoSzjc.jpeg",
+		"category": "opener",
+		"local_image_path": "product_images\\opener_Opener.jpeg",
+		"relative_image_path": "opener_Opener.jpeg"
+	},
+	{
+		"name": "Relife RL-087",
+		"price": 250,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/aDGiIISb.jpeg",
+		"category": "opener",
+		"local_image_path": "product_images\\opener_Relife_RL087.jpeg",
+		"relative_image_path": "opener_Relife_RL087.jpeg"
+	},
+	{
+		"name": "2UUL DA09 Screen Opener",
+		"price": 850,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/WPrREot6.jpeg",
+		"category": "opener",
+		"local_image_path": "product_images\\opener_2UUL_DA09_Screen_Opener.jpeg",
+		"relative_image_path": "opener_2UUL_DA09_Screen_Opener.jpeg"
+	},
+	{
+		"name": "Openr Tool Kit",
+		"price": 50,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/ZHPpE9M5.webp",
+		"category": "opener",
+		"local_image_path": "product_images\\opener_Openr_Tool_Kit.webp",
+		"relative_image_path": "opener_Openr_Tool_Kit.webp"
+	},
+	{
+		"name": "Openers",
+		"price": 30,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/3Syu6nQo.webp",
+		"category": "opener",
+		"local_image_path": "product_images\\opener_Openers.webp",
+		"relative_image_path": "opener_Openers.webp"
+	},
+	{
+		"name": "UMT",
+		"price": 2900,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/YtUuectX.jpeg",
+		"category": "software box",
+		"local_image_path": "product_images\\software_box_UMT.jpeg",
+		"relative_image_path": "software_box_UMT.jpeg"
+	},
+	{
+		"name": "UMT  PRO DONGLE UMT +AVENGER",
+		"price": 3900,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/xIAL8MCU.jpeg",
+		"category": "software box",
+		"local_image_path": "product_images\\software_box_UMT__PRO_DONGLE_UMT_AVENGER.jpeg",
+		"relative_image_path": "software_box_UMT__PRO_DONGLE_UMT_AVENGER.jpeg"
+	},
+	{
+		"name": "ICFRIEND",
+		"price": 7600,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/8YWlTuvM.jpeg",
+		"category": "software box",
+		"local_image_path": "product_images\\software_box_ICFRIEND.jpeg",
+		"relative_image_path": "software_box_ICFRIEND.jpeg"
+	},
+	{
+		"name": "Z3X-PRO",
+		"price": 6500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/TzbxPgze.jpeg",
+		"category": "software box",
+		"local_image_path": "product_images\\software_box_Z3XPRO.jpeg",
+		"relative_image_path": "software_box_Z3XPRO.jpeg"
+	},
+	{
+		"name": "UFI BOX",
+		"price": 21000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/J1YLQLR2.jpeg",
+		"category": "software box",
+		"local_image_path": "product_images\\software_box_UFI_BOX.jpeg",
+		"relative_image_path": "software_box_UFI_BOX.jpeg"
+	},
+	{
+		"name": "EFT DOANGLE",
+		"price": 4900,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/OuFG5CZf.jpeg",
+		"category": "software box",
+		"local_image_path": "product_images\\software_box_EFT_DOANGLE.jpeg",
+		"relative_image_path": "software_box_EFT_DOANGLE.jpeg"
+	},
+	{
+		"name": "MIRSCLE Thunder",
+		"price": 6200,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/YtZZbPgP.jpeg",
+		"category": "software box",
+		"local_image_path": "product_images\\software_box_MIRSCLE_Thunder.jpeg",
+		"relative_image_path": "software_box_MIRSCLE_Thunder.jpeg"
+	},
+	{
+		"name": "Miracle Box Full Set",
+		"price": 0,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Dsx16iIX.jpeg",
+		"category": "software box",
+		"local_image_path": "product_images\\software_box_Miracle_Box_Full_Set.jpeg",
+		"relative_image_path": "software_box_Miracle_Box_Full_Set.jpeg"
+	},
+	{
+		"name": "USB ISP Adaptor",
+		"price": 950,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/PLlQHw7U.jpeg",
+		"category": "software box",
+		"local_image_path": "product_images\\software_box_USB_ISP_Adaptor.jpeg",
+		"relative_image_path": "software_box_USB_ISP_Adaptor.jpeg"
+	},
+	{
+		"name": "BGA Adaptor",
+		"price": 3000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/hviK6UdT.jpeg",
+		"category": "software box",
+		"local_image_path": "product_images\\software_box_BGA_Adaptor.jpeg",
+		"relative_image_path": "software_box_BGA_Adaptor.jpeg"
+	},
+	{
+		"name": "Irepair Box",
+		"price": 0,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/9dZUH60u.jpeg",
+		"category": "software box",
+		"local_image_path": "product_images\\software_box_Irepair_Box.jpeg",
+		"relative_image_path": "software_box_Irepair_Box.jpeg"
+	},
+	{
+		"name": "EFT Pro Dongle",
+		"price": 4800,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/DN6q38Um.jpeg",
+		"category": "software box",
+		"local_image_path": "product_images\\software_box_EFT_Pro_Dongle.jpeg",
+		"relative_image_path": "software_box_EFT_Pro_Dongle.jpeg"
+	},
+	{
+		"name": "UFI ISP Adapter",
+		"price": 500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/wzwjQo2W.jpeg",
+		"category": "software box",
+		"local_image_path": "product_images\\software_box_UFI_ISP_Adapter.jpeg",
+		"relative_image_path": "software_box_UFI_ISP_Adapter.jpeg"
+	},
+	{
+		"name": "RELIFE RL-071B",
+		"price": 1200,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/VI5JXtL2.jpeg",
+		"category": "software box",
+		"local_image_path": "product_images\\software_box_RELIFE_RL071B.jpeg",
+		"relative_image_path": "software_box_RELIFE_RL071B.jpeg"
+	},
+	{
+		"name": "EASY JTAG",
+		"price": 0,
+		"available": 0,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/noZ3yTA3.jpeg",
+		"category": "software box",
+		"local_image_path": "product_images\\software_box_EASY_JTAG.jpeg",
+		"relative_image_path": "software_box_EASY_JTAG.jpeg"
+	},
+	{
+		"name": "Sunshine DT-20N",
+		"price": 1850,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/KNM4Wl0S.jpeg",
+		"category": "multimeter",
+		"local_image_path": "product_images\\multimeter_Sunshine_DT20N.jpeg",
+		"relative_image_path": "multimeter_Sunshine_DT20N.jpeg"
+	},
+	{
+		"name": "Mechanic  DM 5",
+		"price": 1200,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/klnttmd0.jpeg",
+		"category": "multimeter",
+		"local_image_path": "product_images\\multimeter_Mechanic__DM_5.jpeg",
+		"relative_image_path": "multimeter_Mechanic__DM_5.jpeg"
+	},
+	{
+		"name": "Mastech MAS 830 Series",
+		"price": 750,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/hGXhPohu.jpeg",
+		"category": "multimeter",
+		"local_image_path": "product_images\\multimeter_Mastech_MAS_830_Series.jpeg",
+		"relative_image_path": "multimeter_Mastech_MAS_830_Series.jpeg"
+	},
+	{
+		"name": "Mechanic DM-9205E",
+		"price": 550,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/erl8liMY.jpeg",
+		"category": "multimeter",
+		"local_image_path": "product_images\\multimeter_Mechanic_DM9205E.jpeg",
+		"relative_image_path": "multimeter_Mechanic_DM9205E.jpeg"
+	},
+	{
+		"name": "Sunshine Precision Multimeter Pen",
+		"price": 200,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/D7vkpWan.jpeg",
+		"category": "multimeter",
+		"local_image_path": "product_images\\multimeter_Sunshine_Precision_Multimeter_Pen.jpeg",
+		"relative_image_path": "multimeter_Sunshine_Precision_Multimeter_Pen.jpeg"
+	},
+	{
+		"name": "BAKKU A830L",
+		"price": 400,
+		"available": 0,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/LdbYyMrL.jpeg",
+		"category": "multimeter",
+		"local_image_path": "product_images\\multimeter_BAKKU_A830L.jpeg",
+		"relative_image_path": "multimeter_BAKKU_A830L.jpeg"
+	},
+	{
+		"name": "Koocu KC-101",
+		"price": 100,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/kzJg3bpp.jpeg",
+		"category": "PCD stand",
+		"local_image_path": "product_images\\PCD_stand_Koocu_KC101.jpeg",
+		"relative_image_path": "PCD_stand_Koocu_KC101.jpeg"
+	},
+	{
+		"name": "Koocu PCB Stand",
+		"price": 250,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/KNnpaZ4z.jpeg",
+		"category": "PCD stand",
+		"local_image_path": "product_images\\PCD_stand_Koocu_PCB_Stand.jpeg",
+		"relative_image_path": "PCD_stand_Koocu_PCB_Stand.jpeg"
+	},
+	{
+		"name": "PCB Stand",
+		"price": 1500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/9kRPLXnN.jpeg",
+		"category": "PCD stand",
+		"local_image_path": "product_images\\PCD_stand_PCB_Stand.jpeg",
+		"relative_image_path": "PCD_stand_PCB_Stand.jpeg"
+	},
+	{
+		"name": "MR 6",
+		"price": 1500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/83u4Bohj.jpeg",
+		"category": "PCD stand",
+		"local_image_path": "product_images\\PCD_stand_MR_6.jpeg",
+		"relative_image_path": "PCD_stand_MR_6.jpeg"
+	},
+	{
+		"name": "Bakku",
+		"price": 180,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Z9Y3dspp.jpeg",
+		"category": "PCD stand",
+		"local_image_path": "product_images\\PCD_stand_Bakku.jpeg",
+		"relative_image_path": "PCD_stand_Bakku.jpeg"
+	},
+	{
+		"name": "RELIFE RL-601S",
+		"price": 1850,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/cgg7Pqlr.jpeg",
+		"category": "PCD stand",
+		"local_image_path": "product_images\\PCD_stand_RELIFE_RL601S.jpeg",
+		"relative_image_path": "PCD_stand_RELIFE_RL601S.jpeg"
+	},
+	{
+		"name": "Mechanic Mini MK-1",
+		"price": 1200,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/G6ssxzjs.jpeg",
+		"category": "PCD stand",
+		"local_image_path": "product_images\\PCD_stand_Mechanic_Mini_MK1.jpeg",
+		"relative_image_path": "PCD_stand_Mechanic_Mini_MK1.jpeg"
+	},
+	{
+		"name": "RELIFE  RL-601S. (Plus)",
+		"price": 2800,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/yL2vnRGo.jpeg",
+		"category": "PCD stand",
+		"local_image_path": "product_images\\PCD_stand_RELIFE__RL601S_Plus.jpeg",
+		"relative_image_path": "PCD_stand_RELIFE__RL601S_Plus.jpeg"
+	},
+	{
+		"name": "2UUL The One Jig",
+		"price": 1700,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/uLymRYa6.jpeg",
+		"category": "PCD stand",
+		"local_image_path": "product_images\\PCD_stand_2UUL_The_One_Jig.jpeg",
+		"relative_image_path": "PCD_stand_2UUL_The_One_Jig.jpeg"
+	},
+	{
+		"name": "Relife RL-601L",
+		"price": 1350,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/neI3Bp9m.jpeg",
+		"category": "PCD stand",
+		"local_image_path": "product_images\\PCD_stand_Relife_RL601L.jpeg",
+		"relative_image_path": "PCD_stand_Relife_RL601L.jpeg"
+	},
+	{
+		"name": "Relife RL-601F",
+		"price": 1500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/nUtvTRFo.jpeg",
+		"category": "PCD stand",
+		"local_image_path": "product_images\\PCD_stand_Relife_RL601F.jpeg",
+		"relative_image_path": "PCD_stand_Relife_RL601F.jpeg"
+	},
+	{
+		"name": "RL-6011",
+		"price": 1600,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/RNdTlKYv.jpeg",
+		"category": "PCD stand",
+		"local_image_path": "product_images\\PCD_stand_RL6011.jpeg",
+		"relative_image_path": "PCD_stand_RL6011.jpeg"
+	},
+	{
+		"name": "Mechanic IC FIX",
+		"price": 1500,
+		"available": 0,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/SFxcFNEY.jpeg",
+		"category": "PCD stand",
+		"local_image_path": "product_images\\PCD_stand_Mechanic_IC_FIX.jpeg",
+		"relative_image_path": "PCD_stand_Mechanic_IC_FIX.jpeg"
+	},
+	{
+		"name": "Bakku BA - 693",
+		"price": 750,
+		"available": 0,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/e0JI5i6N.jpeg",
+		"category": "PCD stand",
+		"local_image_path": "product_images\\PCD_stand_Bakku_BA__693.jpeg",
+		"relative_image_path": "PCD_stand_Bakku_BA__693.jpeg"
+	},
+	{
+		"name": "Mietubl MATT NTPU",
+		"price": 1600,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/t2OC3px7.jpeg",
+		"category": "Screen protector",
+		"local_image_path": "product_images\\Screen_protector_Mietubl_MATT_NTPU.jpeg",
+		"relative_image_path": "Screen_protector_Mietubl_MATT_NTPU.jpeg"
+	},
+	{
+		"name": "Mletubl  -  CLEAR NTPU",
+		"price": 1600,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/fgeKWqCt.jpeg",
+		"category": "Screen protector",
+		"local_image_path": "product_images\\Screen_protector_Mletubl____CLEAR_NTPU.jpeg",
+		"relative_image_path": "Screen_protector_Mletubl____CLEAR_NTPU.jpeg"
+	},
+	{
+		"name": "Mietubl",
+		"price": 33500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/xwBKtO0M.jpeg",
+		"category": "Screen protector",
+		"local_image_path": "product_images\\Screen_protector_Mietubl.jpeg",
+		"relative_image_path": "Screen_protector_Mietubl.jpeg"
+	},
+	{
+		"name": "Tuoli",
+		"price": 35000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/oqpuz4GK.jpeg",
+		"category": "Screen protector",
+		"local_image_path": "product_images\\Screen_protector_Tuoli.jpeg",
+		"relative_image_path": "Screen_protector_Tuoli.jpeg"
+	},
+	{
+		"name": "Mietubl Screen Plotter",
+		"price": 32000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/ka7xuCMD.jpeg",
+		"category": "Screen protector",
+		"local_image_path": "product_images\\Screen_protector_Mietubl_Screen_Plotter.jpeg",
+		"relative_image_path": "Screen_protector_Mietubl_Screen_Plotter.jpeg"
+	},
+	{
+		"name": "Skin Cutting Machine Blade",
+		"price": 250,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/u6BRoFli.jpeg",
+		"category": "Screen protector",
+		"local_image_path": "product_images\\Screen_protector_Skin_Cutting_Machine_Blade.jpeg",
+		"relative_image_path": "Screen_protector_Skin_Cutting_Machine_Blade.jpeg"
+	},
+	{
+		"name": "RELIFE RL- 402",
+		"price": 250,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/D6wM7QwU.jpeg",
+		"category": "solder-paste PPD",
+		"local_image_path": "product_images\\solder-paste_PPD_RELIFE_RL_402.jpeg",
+		"relative_image_path": "solder-paste_PPD_RELIFE_RL_402.jpeg"
+	},
+	{
+		"name": "Mechanic PPD Paste",
+		"price": 250,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/3mHHPxUO.jpeg",
+		"category": "solder-paste PPD",
+		"local_image_path": "product_images\\solder-paste_PPD_Mechanic_PPD_Paste.jpeg",
+		"relative_image_path": "solder-paste_PPD_Mechanic_PPD_Paste.jpeg"
+	},
+	{
+		"name": "Solder Paste 138c",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/A6uqTvCi.jpeg",
+		"category": "solder-paste PPD",
+		"local_image_path": "product_images\\solder-paste_PPD_Solder_Paste_138c.jpeg",
+		"relative_image_path": "solder-paste_PPD_Solder_Paste_138c.jpeg"
+	},
+	{
+		"name": "Relief TL- 403S",
+		"price": 250,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/mdLQetIx.jpeg",
+		"category": "solder-paste PPD",
+		"local_image_path": "product_images\\solder-paste_PPD_Relief_TL_403S.jpeg",
+		"relative_image_path": "solder-paste_PPD_Relief_TL_403S.jpeg"
+	},
+	{
+		"name": "BAKKU PPD PASTE",
+		"price": 150,
+		"available": 0,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/bfXBBAsk.jpeg",
+		"category": "solder-paste PPD",
+		"local_image_path": "product_images\\solder-paste_PPD_BAKKU_PPD_PASTE.jpeg",
+		"relative_image_path": "solder-paste_PPD_BAKKU_PPD_PASTE.jpeg"
+	},
+	{
+		"name": "BAKKU Solder Wire",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/4zJ0mzPo.jpeg",
+		"category": "solder-wire",
+		"local_image_path": "product_images\\solder-wire_BAKKU_Solder_Wire.jpeg",
+		"relative_image_path": "solder-wire_BAKKU_Solder_Wire.jpeg"
+	},
+	{
+		"name": "Mechanic TY-V866",
+		"price": 180,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/0UNFjev6.jpeg",
+		"category": "solder-wire",
+		"local_image_path": "product_images\\solder-wire_Mechanic_TYV866.jpeg",
+		"relative_image_path": "solder-wire_Mechanic_TYV866.jpeg"
+	},
+	{
+		"name": "RMA Wire",
+		"price": 100,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/V74mxAoh.jpeg",
+		"category": "solder-wire",
+		"local_image_path": "product_images\\solder-wire_RMA_Wire.jpeg",
+		"relative_image_path": "solder-wire_RMA_Wire.jpeg"
+	},
+	{
+		"name": "Mechanic N 83",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/rGOGZcA5.jpeg",
+		"category": "solder-wire",
+		"local_image_path": "product_images\\solder-wire_Mechanic_N_83.jpeg",
+		"relative_image_path": "solder-wire_Mechanic_N_83.jpeg"
+	},
+	{
+		"name": "Mechanic HX-T 100",
+		"price": 180,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/LGhetEVv.jpeg",
+		"category": "solder-wire",
+		"local_image_path": "product_images\\solder-wire_Mechanic_HXT_100.jpeg",
+		"relative_image_path": "solder-wire_Mechanic_HXT_100.jpeg"
+	},
+	{
+		"name": "JIA",
+		"price": 70,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/vNt1anp2.jpeg",
+		"category": "solder-wire",
+		"local_image_path": "product_images\\solder-wire_JIA.jpeg",
+		"relative_image_path": "solder-wire_JIA.jpeg"
+	},
+	{
+		"name": "Relife Solder Wire RL- 440",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/NnRnQ1FY.jpeg",
+		"category": "solder-wire",
+		"local_image_path": "product_images\\solder-wire_Relife_Solder_Wire_RL_440.jpeg",
+		"relative_image_path": "solder-wire_Relife_Solder_Wire_RL_440.jpeg"
+	},
+	{
+		"name": "2UULmobi Desoldering Wick",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/aqRjZOO8.jpeg",
+		"category": "solder-wire",
+		"local_image_path": "product_images\\solder-wire_2UULmobi_Desoldering_Wick.jpeg",
+		"relative_image_path": "solder-wire_2UULmobi_Desoldering_Wick.jpeg"
+	},
+	{
+		"name": "MECHANIC TWEEZER",
+		"price": 200,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Hru3gfaZ.jpeg",
+		"category": "Tweezer",
+		"local_image_path": "product_images\\Tweezer_MECHANIC_TWEEZER.jpeg",
+		"relative_image_path": "Tweezer_MECHANIC_TWEEZER.jpeg"
+	},
+	{
+		"name": "NRC Tweezer",
+		"price": 50,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/oL6HHpnW.jpeg",
+		"category": "Tweezer",
+		"local_image_path": "product_images\\Tweezer_NRC_Tweezer.jpeg",
+		"relative_image_path": "Tweezer_NRC_Tweezer.jpeg"
+	},
+	{
+		"name": "Koocu Tweezer",
+		"price": 200,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/2qgS1eJX.jpeg",
+		"category": "Tweezer",
+		"local_image_path": "product_images\\Tweezer_Koocu_Tweezer.jpeg",
+		"relative_image_path": "Tweezer_Koocu_Tweezer.jpeg"
+	},
+	{
+		"name": "Tweezer",
+		"price": 250,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/OEtw4AEv.jpeg",
+		"category": "Tweezer",
+		"local_image_path": "product_images\\Tweezer_Tweezer.jpeg",
+		"relative_image_path": "Tweezer_Tweezer.jpeg"
+	},
+	{
+		"name": "BAKKU   BK-15",
+		"price": 60,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/0cOw4HxP.jpeg",
+		"category": "Tweezer",
+		"local_image_path": "product_images\\Tweezer_BAKKU___BK15.jpeg",
+		"relative_image_path": "Tweezer_BAKKU___BK15.jpeg"
+	},
+	{
+		"name": "Relife RT- 11C",
+		"price": 650,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/fG8CBaoo.jpeg",
+		"category": "Tweezer",
+		"local_image_path": "product_images\\Tweezer_Relife_RT_11C.jpeg",
+		"relative_image_path": "Tweezer_Relife_RT_11C.jpeg"
+	},
+	{
+		"name": "Forward Skin Cutting Machine",
+		"price": 24000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/ZL1NLHzX.jpeg",
+		"category": "Skin-cutting machine",
+		"local_image_path": "product_images\\Skin-cutting_machine_Forward_Skin_Cutting_Machine.jpeg",
+		"relative_image_path": "Skin-cutting_machine_Forward_Skin_Cutting_Machine.jpeg"
+	},
+	{
+		"name": "Forward Skin cutting Machine( With Display)",
+		"price": 27500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/jmmIxniW.jpeg",
+		"category": "Skin-cutting machine",
+		"local_image_path": "product_images\\Skin-cutting_machine_Forward_Skin_cutting_Machine_With_Display.jpeg",
+		"relative_image_path": "Skin-cutting_machine_Forward_Skin_cutting_Machine_With_Display.jpeg"
+	},
+	{
+		"name": "Liulon-pn2",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/dW6ZT8QL.webp",
+		"category": "Skin-cutting machine",
+		"local_image_path": "product_images\\Skin-cutting_machine_Liulonpn2.webp",
+		"relative_image_path": "Skin-cutting_machine_Liulonpn2.webp"
+	},
+	{
+		"name": "RELIFE Flux Paste(white)",
+		"price": 200,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/4bZ6BkmE.jpeg",
+		"category": "Flux paste",
+		"local_image_path": "product_images\\Flux_paste_RELIFE_Flux_Pastewhite.jpeg",
+		"relative_image_path": "Flux_paste_RELIFE_Flux_Pastewhite.jpeg"
+	},
+	{
+		"name": "BGA Flux Paste 421S-OR",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/r8ITbbMX.jpeg",
+		"category": "Flux paste",
+		"local_image_path": "product_images\\Flux_paste_BGA_Flux_Paste_421SOR.jpeg",
+		"relative_image_path": "Flux_paste_BGA_Flux_Paste_421SOR.jpeg"
+	},
+	{
+		"name": "3 In 1 Chip Solder Set",
+		"price": 350,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/okM5yLn8.jpeg",
+		"category": "Flux paste",
+		"local_image_path": "product_images\\Flux_paste_3_In_1_Chip_Solder_Set.jpeg",
+		"relative_image_path": "Flux_paste_3_In_1_Chip_Solder_Set.jpeg"
+	},
+	{
+		"name": "RELIFE 420UV Flux Paste",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/kwOmyKAH.jpeg",
+		"category": "Flux paste",
+		"local_image_path": "product_images\\Flux_paste_RELIFE_420UV_Flux_Paste.jpeg",
+		"relative_image_path": "Flux_paste_RELIFE_420UV_Flux_Paste.jpeg"
+	},
+	{
+		"name": "BGA 420S Flux Paste",
+		"price": 200,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/jP8Ky18W.jpeg",
+		"category": "Flux paste",
+		"local_image_path": "product_images\\Flux_paste_BGA_420S_Flux_Paste.jpeg",
+		"relative_image_path": "Flux_paste_BGA_420S_Flux_Paste.jpeg"
+	},
+	{
+		"name": "BAKKU BK-80 Soldering Paste (1)",
+		"price": 50,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/AoJfp26q.jpeg",
+		"category": "Flux paste",
+		"local_image_path": "product_images\\Flux_paste_BAKKU_BK80_Soldering_Paste_1.jpeg",
+		"relative_image_path": "Flux_paste_BAKKU_BK80_Soldering_Paste_1.jpeg"
+	},
+	{
+		"name": "Mechanic UV559 Flux Paste",
+		"price": 550,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/By0tOx0w.jpeg",
+		"category": "Flux paste",
+		"local_image_path": "product_images\\Flux_paste_Mechanic_UV559_Flux_Paste.jpeg",
+		"relative_image_path": "Flux_paste_Mechanic_UV559_Flux_Paste.jpeg"
+	},
+	{
+		"name": "RELIFE Flux Paste",
+		"price": 550,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/4S8FBbcG.jpeg",
+		"category": "Flux paste",
+		"local_image_path": "product_images\\Flux_paste_RELIFE_Flux_Paste.jpeg",
+		"relative_image_path": "Flux_paste_RELIFE_Flux_Paste.jpeg"
+	},
+	{
+		"name": "Relife Flux Paste RL 559",
+		"price": 550,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/bJOscMrK.jpeg",
+		"category": "Flux paste",
+		"local_image_path": "product_images\\Flux_paste_Relife_Flux_Paste_RL_559.jpeg",
+		"relative_image_path": "Flux_paste_Relife_Flux_Paste_RL_559.jpeg"
+	},
+	{
+		"name": "Mechanic FLUX X8",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/eRnVuHga.jpeg",
+		"category": "Flux paste",
+		"local_image_path": "product_images\\Flux_paste_Mechanic_FLUX_X8.jpeg",
+		"relative_image_path": "Flux_paste_Mechanic_FLUX_X8.jpeg"
+	},
+	{
+		"name": "Mechanic Flux Paste UV 559",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/KnqiXWHR.jpeg",
+		"category": "Flux paste",
+		"local_image_path": "product_images\\Flux_paste_Mechanic_Flux_Paste_UV_559.jpeg",
+		"relative_image_path": "Flux_paste_Mechanic_Flux_Paste_UV_559.jpeg"
+	},
+	{
+		"name": "Mechanic Uv 223",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/aQQOcO9o.jpeg",
+		"category": "Flux paste",
+		"local_image_path": "product_images\\Flux_paste_Mechanic_Uv_223.jpeg",
+		"relative_image_path": "Flux_paste_Mechanic_Uv_223.jpeg"
+	},
+	{
+		"name": "RELIFE Syringe Booster",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/HH35nlVR.jpeg",
+		"category": "Flux paste",
+		"local_image_path": "product_images\\Flux_paste_RELIFE_Syringe_Booster.jpeg",
+		"relative_image_path": "Flux_paste_RELIFE_Syringe_Booster.jpeg"
+	},
+	{
+		"name": "FLUXO",
+		"price": 300,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/pRU04FLp.jpeg",
+		"category": "Flux paste",
+		"local_image_path": "product_images\\Flux_paste_FLUXO.jpeg",
+		"relative_image_path": "Flux_paste_FLUXO.jpeg"
+	},
+	{
+		"name": "YIHUA 3005D",
+		"price": 4700,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/a5WvxYbU.jpeg",
+		"category": "Power supply",
+		"local_image_path": "product_images\\Power_supply_YIHUA_3005D.jpeg",
+		"relative_image_path": "Power_supply_YIHUA_3005D.jpeg"
+	},
+	{
+		"name": "SUGON 3005D",
+		"price": 5800,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/M8e0Z9Xo.jpeg",
+		"category": "Power supply",
+		"local_image_path": "product_images\\Power_supply_SUGON_3005D.jpeg",
+		"relative_image_path": "Power_supply_SUGON_3005D.jpeg"
+	},
+	{
+		"name": "KORAD KA3005D",
+		"price": 4500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/4vtIsCkD.jpeg",
+		"category": "Power supply",
+		"local_image_path": "product_images\\Power_supply_KORAD_KA3005D.jpeg",
+		"relative_image_path": "Power_supply_KORAD_KA3005D.jpeg"
+	},
+	{
+		"name": "BAKU BK-1501T",
+		"price": 2800,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/LGAZGwdX.jpeg",
+		"category": "Power supply",
+		"local_image_path": "product_images\\Power_supply_BAKU_BK1501T.jpeg",
+		"relative_image_path": "Power_supply_BAKU_BK1501T.jpeg"
+	},
+	{
+		"name": "Mechanic Power Boot Cable",
+		"price": 1300,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Z2HMoEpa.jpeg",
+		"category": "Power supply",
+		"local_image_path": "product_images\\Power_supply_Mechanic_Power_Boot_Cable.jpeg",
+		"relative_image_path": "Power_supply_Mechanic_Power_Boot_Cable.jpeg"
+	},
+	{
+		"name": "Sunshine SS-909",
+		"price": 1550,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Ow6igodR.jpeg",
+		"category": "Power supply",
+		"local_image_path": "product_images\\Power_supply_Sunshine_SS909.jpeg",
+		"relative_image_path": "Power_supply_Sunshine_SS909.jpeg"
+	},
+	{
+		"name": "Mechanic Battery Chip Active Panel",
+		"price": 1100,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/1UtMDmvb.jpeg",
+		"category": "Power supply",
+		"local_image_path": "product_images\\Power_supply_Mechanic_Battery_Chip_Active_Panel.jpeg",
+		"relative_image_path": "Power_supply_Mechanic_Battery_Chip_Active_Panel.jpeg"
+	},
+	{
+		"name": "OSS TEAM Smart Android W207 PRO",
+		"price": 750,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/kOrLUDZE.jpeg",
+		"category": "Power supply",
+		"local_image_path": "product_images\\Power_supply_OSS_TEAM_Smart_Android_W207_PRO.jpeg",
+		"relative_image_path": "Power_supply_OSS_TEAM_Smart_Android_W207_PRO.jpeg"
+	},
+	{
+		"name": "Qianli Portable Spot Welding Machine",
+		"price": 3200,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/OrZILnyz.jpeg",
+		"category": "Power supply",
+		"local_image_path": "product_images\\Power_supply_Qianli_Portable_Spot_Welding_Machine.jpeg",
+		"relative_image_path": "Power_supply_Qianli_Portable_Spot_Welding_Machine.jpeg"
+	},
+	{
+		"name": "RF4 DC Power Supply RF-3005D",
+		"price": 5700,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/9MHIeRvF.jpeg",
+		"category": "Power supply",
+		"local_image_path": "product_images\\Power_supply_RF4_DC_Power_Supply_RF3005D.jpeg",
+		"relative_image_path": "Power_supply_RF4_DC_Power_Supply_RF3005D.jpeg"
+	},
+	{
+		"name": "RF4 Dc Power supply RF3005pro",
+		"price": 6800,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/uB3b3h11.jpeg",
+		"category": "Power supply",
+		"local_image_path": "product_images\\Power_supply_RF4_Dc_Power_supply_RF3005pro.jpeg",
+		"relative_image_path": "Power_supply_RF4_Dc_Power_supply_RF3005pro.jpeg"
+	},
+	{
+		"name": "YIHUA 305D",
+		"price": 3700,
+		"available": 0,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/LeGJSJGp.jpeg",
+		"category": "Power supply",
+		"local_image_path": "product_images\\Power_supply_YIHUA_305D.jpeg",
+		"relative_image_path": "Power_supply_YIHUA_305D.jpeg"
+	},
+	{
+		"name": "Mechanic M3005D Power Supply",
+		"price": 4800,
+		"available": 0,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/8TZipSmq.jpeg",
+		"category": "Power supply",
+		"local_image_path": "product_images\\Power_supply_Mechanic_M3005D_Power_Supply.jpeg",
+		"relative_image_path": "Power_supply_Mechanic_M3005D_Power_Supply.jpeg"
+	},
+	{
+		"name": "Mechanic 1to18 Power Pro",
+		"price": 1200,
+		"available": 0,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Ox6A4suD.jpeg",
+		"category": "Power supply",
+		"local_image_path": "product_images\\Power_supply_Mechanic_1to18_Power_Pro.jpeg",
+		"relative_image_path": "Power_supply_Mechanic_1to18_Power_Pro.jpeg"
+	},
+	{
+		"name": "SUGON 8610DX",
+		"price": 11500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/bqIEtnPY.jpeg",
+		"category": "SMD rework station",
+		"local_image_path": "product_images\\SMD_rework_station_SUGON_8610DX.jpeg",
+		"relative_image_path": "SMD_rework_station_SUGON_8610DX.jpeg"
+	},
+	{
+		"name": "QUICK 857DW+",
+		"price": 5700,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/xI0riO4u.jpeg",
+		"category": "SMD rework station",
+		"local_image_path": "product_images\\SMD_rework_station_QUICK_857DW.jpeg",
+		"relative_image_path": "SMD_rework_station_QUICK_857DW.jpeg"
+	},
+	{
+		"name": "BAKU 858A",
+		"price": 2200,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/BlPS4yyr.jpeg",
+		"category": "SMD rework station",
+		"local_image_path": "product_images\\SMD_rework_station_BAKU_858A.jpeg",
+		"relative_image_path": "SMD_rework_station_BAKU_858A.jpeg"
+	},
+	{
+		"name": "BAKU BK-761D",
+		"price": 3250,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/htzBYGpM.jpeg",
+		"category": "SMD rework station",
+		"local_image_path": "product_images\\SMD_rework_station_BAKU_BK761D.jpeg",
+		"relative_image_path": "SMD_rework_station_BAKU_BK761D.jpeg"
+	},
+	{
+		"name": "Nazil",
+		"price": 250,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/RKnKlI0E.jpeg",
+		"category": "SMD rework station",
+		"local_image_path": "product_images\\SMD_rework_station_Nazil.jpeg",
+		"relative_image_path": "SMD_rework_station_Nazil.jpeg"
+	},
+	{
+		"name": "Nozzil  (1)",
+		"price": 250,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/marSx3Fu.jpeg",
+		"category": "SMD rework station",
+		"local_image_path": "product_images\\SMD_rework_station_Nozzil__1.jpeg",
+		"relative_image_path": "SMD_rework_station_Nozzil__1.jpeg"
+	},
+	{
+		"name": "Nozzil (1)",
+		"price": 250,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/BJnM9r0D.jpeg",
+		"category": "SMD rework station",
+		"local_image_path": "product_images\\SMD_rework_station_Nozzil_1.jpeg",
+		"relative_image_path": "SMD_rework_station_Nozzil_1.jpeg"
+	},
+	{
+		"name": "Nozzil",
+		"price": 250,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/4rnIR1Bx.jpeg",
+		"category": "SMD rework station",
+		"local_image_path": "product_images\\SMD_rework_station_Nozzil.jpeg",
+		"relative_image_path": "SMD_rework_station_Nozzil.jpeg"
+	},
+	{
+		"name": "QUICK  861D",
+		"price": 16500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/uAlm66rF.jpeg",
+		"category": "SMD rework station",
+		"local_image_path": "product_images\\SMD_rework_station_QUICK__861D.jpeg",
+		"relative_image_path": "SMD_rework_station_QUICK__861D.jpeg"
+	},
+	{
+		"name": "Sugon 2020D",
+		"price": 5500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/NWxcCJ0r.jpeg",
+		"category": "SMD rework station",
+		"local_image_path": "product_images\\SMD_rework_station_Sugon_2020D.jpeg",
+		"relative_image_path": "SMD_rework_station_Sugon_2020D.jpeg"
+	},
+	{
+		"name": "MECHANIC Hk-858D",
+		"price": 3000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Gzo2OHXo.jpeg",
+		"category": "SMD rework station",
+		"local_image_path": "product_images\\SMD_rework_station_MECHANIC_Hk858D.jpeg",
+		"relative_image_path": "SMD_rework_station_MECHANIC_Hk858D.jpeg"
+	},
+	{
+		"name": "QUICK SMD Rework Station 2008",
+		"price": 6400,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/BuNAOl7s.jpeg",
+		"category": "SMD rework station",
+		"local_image_path": "product_images\\SMD_rework_station_QUICK_SMD_Rework_Station_2008.jpeg",
+		"relative_image_path": "SMD_rework_station_QUICK_SMD_Rework_Station_2008.jpeg"
+	},
+	{
+		"name": "AIFAN  861DW Lead Free",
+		"price": 6500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/9OLQxREN.jpeg",
+		"category": "SMD rework station",
+		"local_image_path": "product_images\\SMD_rework_station_AIFAN__861DW_Lead_Free.jpeg",
+		"relative_image_path": "SMD_rework_station_AIFAN__861DW_Lead_Free.jpeg"
+	},
+	{
+		"name": "Mechanic 861DW Pro ",
+		"price": 11000,
+		"available": 0,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/GyZJtsZK.jpeg",
+		"category": "SMD rework station",
+		"local_image_path": "product_images\\SMD_rework_station_Mechanic_861DW_Pro.jpeg",
+		"relative_image_path": "SMD_rework_station_Mechanic_861DW_Pro.jpeg"
+	},
+	{
+		"name": "BAKU BA-942",
+		"price": 4000,
+		"available": 0,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/UErt3NhT.jpeg",
+		"category": "SMD rework station",
+		"local_image_path": "product_images\\SMD_rework_station_BAKU_BA942.jpeg",
+		"relative_image_path": "SMD_rework_station_BAKU_BA942.jpeg"
+	},
+	{
+		"name": "BAKU BK-601D",
+		"price": 3750,
+		"available": 0,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/AGvEFinN.jpeg",
+		"category": "SMD rework station",
+		"local_image_path": "product_images\\SMD_rework_station_BAKU_BK601D.jpeg",
+		"relative_image_path": "SMD_rework_station_BAKU_BK601D.jpeg"
+	},
+	{
+		"name": "BAKU BK-8032A++",
+		"price": 1850,
+		"available": 0,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/whtVnev8.jpeg",
+		"category": "SMD rework station",
+		"local_image_path": "product_images\\SMD_rework_station_BAKU_BK8032A.jpeg",
+		"relative_image_path": "SMD_rework_station_BAKU_BK8032A.jpeg"
+	},
+	{
+		"name": "MECHANIC HK-858",
+		"price": 2700,
+		"available": 0,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/inUTYxrz.jpeg",
+		"category": "SMD rework station",
+		"local_image_path": "product_images\\SMD_rework_station_MECHANIC_HK858.jpeg",
+		"relative_image_path": "SMD_rework_station_MECHANIC_HK858.jpeg"
+	},
+	{
+		"name": "MECHANIC HK-850",
+		"price": 2900,
+		"available": 0,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/aynm0peY.jpeg",
+		"category": "SMD rework station",
+		"local_image_path": "product_images\\SMD_rework_station_MECHANIC_HK850.jpeg",
+		"relative_image_path": "SMD_rework_station_MECHANIC_HK850.jpeg"
+	},
+	{
+		"name": "QUICK 858D",
+		"price": 1999,
+		"available": 0,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/C3Jf2qi1.jpeg",
+		"category": "SMD rework station",
+		"local_image_path": "product_images\\SMD_rework_station_QUICK_858D.jpeg",
+		"relative_image_path": "SMD_rework_station_QUICK_858D.jpeg"
+	},
+	{
+		"name": "FORWARD iOS 16\"",
+		"price": 52000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/tJWaiZyV.jpeg",
+		"category": "OCA machine",
+		"local_image_path": "product_images\\OCA_machine_FORWARD_iOS_16.jpeg",
+		"relative_image_path": "OCA_machine_FORWARD_iOS_16.jpeg"
+	},
+	{
+		"name": "4 in 1 OCA Machine",
+		"price": 46000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/xNrOz7gW.jpeg",
+		"category": "OCA machine",
+		"local_image_path": "product_images\\OCA_machine_4_in_1_OCA_Machine.jpeg",
+		"relative_image_path": "OCA_machine_4_in_1_OCA_Machine.jpeg"
+	},
+	{
+		"name": "FORWARD 4 in 1 Machine",
+		"price": 42000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/9OiL6tqv.jpeg",
+		"category": "OCA machine",
+		"local_image_path": "product_images\\OCA_machine_FORWARD_4_in_1_Machine.jpeg",
+		"relative_image_path": "OCA_machine_FORWARD_4_in_1_Machine.jpeg"
+	},
+	{
+		"name": "M Triangel  CP-02A",
+		"price": 12500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/jYML0NKS.jpeg",
+		"category": "OCA machine",
+		"local_image_path": "product_images\\OCA_machine_M_Triangel__CP02A.jpeg",
+		"relative_image_path": "OCA_machine_M_Triangel__CP02A.jpeg"
+	},
+	{
+		"name": "M -Triangel MT - 12",
+		"price": 55000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/x7SgfK2U.jpeg",
+		"category": "OCA machine",
+		"local_image_path": "product_images\\OCA_machine_M_Triangel_MT__12.jpeg",
+		"relative_image_path": "OCA_machine_M_Triangel_MT__12.jpeg"
+	},
+	{
+		"name": "M-TRIANGEL BUBBLE  REMOVAR",
+		"price": 11800,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/VwLpSViQ.jpeg",
+		"category": "OCA machine",
+		"local_image_path": "product_images\\OCA_machine_MTRIANGEL_BUBBLE__REMOVAR.jpeg",
+		"relative_image_path": "OCA_machine_MTRIANGEL_BUBBLE__REMOVAR.jpeg"
+	},
+	{
+		"name": "Mechanic OCA Machine",
+		"price": 42000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/4zHXHFaA.jpeg",
+		"category": "OCA machine",
+		"local_image_path": "product_images\\OCA_machine_Mechanic_OCA_Machine.jpeg",
+		"relative_image_path": "OCA_machine_Mechanic_OCA_Machine.jpeg"
+	},
+	{
+		"name": "Forward Mini Bubble Removal Machine",
+		"price": 7500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/kj5PayMT.jpeg",
+		"category": "OCA machine",
+		"local_image_path": "product_images\\OCA_machine_Forward_Mini_Bubble_Removal_Machine.jpeg",
+		"relative_image_path": "OCA_machine_Forward_Mini_Bubble_Removal_Machine.jpeg"
+	},
+	{
+		"name": "AR - 12 MAX",
+		"price": 46000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/LBk37mBR.jpeg",
+		"category": "OCA machine",
+		"local_image_path": "product_images\\OCA_machine_AR__12_MAX.jpeg",
+		"relative_image_path": "OCA_machine_AR__12_MAX.jpeg"
+	},
+	{
+		"name": "OUT STANDNG Air Compressor",
+		"price": 7500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/NXfrkqJS.jpeg",
+		"category": "OCA machine",
+		"local_image_path": "product_images\\OCA_machine_OUT_STANDNG_Air_Compressor.jpeg",
+		"relative_image_path": "OCA_machine_OUT_STANDNG_Air_Compressor.jpeg"
+	},
+	{
+		"name": "Vacuum Pump",
+		"price": 6900,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/5FqD2hDH.jpeg",
+		"category": "OCA machine",
+		"local_image_path": "product_images\\OCA_machine_Vacuum_Pump.jpeg",
+		"relative_image_path": "OCA_machine_Vacuum_Pump.jpeg"
+	},
+	{
+		"name": "Forward Bubblé Remover",
+		"price": 12500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/M1IU0wDT.jpeg",
+		"category": "OCA machine",
+		"local_image_path": "product_images\\OCA_machine_Forward_Bubblé_Remover.jpeg",
+		"relative_image_path": "OCA_machine_Forward_Bubblé_Remover.jpeg"
+	},
+	{
+		"name": "Shree Bubble Remover",
+		"price": 16500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/6Xr6Cs1o.jpeg",
+		"category": "OCA machine",
+		"local_image_path": "product_images\\OCA_machine_Shree_Bubble_Remover.jpeg",
+		"relative_image_path": "OCA_machine_Shree_Bubble_Remover.jpeg"
+	},
+	{
+		"name": "Nasan Oca Laminator",
+		"price": 29000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/ICnu1zLx.jpeg",
+		"category": "OCA machine",
+		"local_image_path": "product_images\\OCA_machine_Nasan_Oca_Laminator.jpeg",
+		"relative_image_path": "OCA_machine_Nasan_Oca_Laminator.jpeg"
+	},
+	{
+		"name": "Bulit In Air Compressor NA-B2+",
+		"price": 11800,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Ive70Zay.jpeg",
+		"category": "OCA machine",
+		"local_image_path": "product_images\\OCA_machine_Bulit_In_Air_Compressor_NAB2.jpeg",
+		"relative_image_path": "OCA_machine_Bulit_In_Air_Compressor_NAB2.jpeg"
+	},
+	{
+		"name": "FORWARD All In One Oca Machine",
+		"price": 42000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/qgArHKln.jpeg",
+		"category": "OCA machine",
+		"local_image_path": "product_images\\OCA_machine_FORWARD_All_In_One_Oca_Machine.jpeg",
+		"relative_image_path": "OCA_machine_FORWARD_All_In_One_Oca_Machine.jpeg"
+	},
+	{
+		"name": "Forward iPhone Backdoor Seperator Machine",
+		"price": 86000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/ZHA15a3C.jpeg",
+		"category": "OCA machine",
+		"local_image_path": "product_images\\OCA_machine_Forward_iPhone_Backdoor_Seperator_Machine.jpeg",
+		"relative_image_path": "OCA_machine_Forward_iPhone_Backdoor_Seperator_Machine.jpeg"
+	},
+	{
+		"name": "MC75T Mechanic Microscope",
+		"price": 17500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/5WidEUQo.jpeg",
+		"category": "Microscope",
+		"local_image_path": "product_images\\Microscope_MC75T_Mechanic_Microscope.jpeg",
+		"relative_image_path": "Microscope_MC75T_Mechanic_Microscope.jpeg"
+	},
+	{
+		"name": "Mechanic Microscope D75T-B11",
+		"price": 16200,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/ud99qzb6.jpeg",
+		"category": "Microscope",
+		"local_image_path": "product_images\\Microscope_Mechanic_Microscope_D75TB11.jpeg",
+		"relative_image_path": "Microscope_Mechanic_Microscope_D75TB11.jpeg"
+	},
+	{
+		"name": "MECHANIC MOS 300-B11",
+		"price": 18500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/NeFkm9lq.jpeg",
+		"category": "Microscope",
+		"local_image_path": "product_images\\Microscope_MECHANIC_MOS_300B11.jpeg",
+		"relative_image_path": "Microscope_MECHANIC_MOS_300B11.jpeg"
+	},
+	{
+		"name": "FORWARD",
+		"price": 23000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/bkb2CeDf.jpeg",
+		"category": "Microscope",
+		"local_image_path": "product_images\\Microscope_FORWARD.jpeg",
+		"relative_image_path": "Microscope_FORWARD.jpeg"
+	},
+	{
+		"name": "Microscope LED Light",
+		"price": 850,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/cNk8RTiI.jpeg",
+		"category": "Microscope",
+		"local_image_path": "product_images\\Microscope_Microscope_LED_Light.jpeg",
+		"relative_image_path": "Microscope_Microscope_LED_Light.jpeg"
+	},
+	{
+		"name": "Mechanic LED Light",
+		"price": 600,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/nkzODaiM.jpeg",
+		"category": "Microscope",
+		"local_image_path": "product_images\\Microscope_Mechanic_LED_Light.jpeg",
+		"relative_image_path": "Microscope_Mechanic_LED_Light.jpeg"
+	},
+	{
+		"name": "Microscope Extension",
+		"price": 3800,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/CR3GOIG4.jpeg",
+		"category": "Microscope",
+		"local_image_path": "product_images\\Microscope_Microscope_Extension.jpeg",
+		"relative_image_path": "Microscope_Microscope_Extension.jpeg"
+	},
+	{
+		"name": "Microscope Big Base",
+		"price": 850,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/E4ZNOg1w.jpeg",
+		"category": "Microscope",
+		"local_image_path": "product_images\\Microscope_Microscope_Big_Base.jpeg",
+		"relative_image_path": "Microscope_Microscope_Big_Base.jpeg"
+	},
+	{
+		"name": "2UUL LED Microscope Lamp",
+		"price": 1050,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/JVdo1pnJ.jpeg",
+		"category": "Microscope",
+		"local_image_path": "product_images\\Microscope_2UUL_LED_Microscope_Lamp.jpeg",
+		"relative_image_path": "Microscope_2UUL_LED_Microscope_Lamp.jpeg"
+	},
+	{
+		"name": "RF4 RF7050-P04",
+		"price": 19000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/jOxMtViz.jpeg",
+		"category": "Microscope",
+		"local_image_path": "product_images\\Microscope_RF4_RF7050P04.jpeg",
+		"relative_image_path": "Microscope_RF4_RF7050P04.jpeg"
+	},
+	{
+		"name": "RF4 RF7050TVP",
+		"price": 18000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/rCMZk9eW.jpeg",
+		"category": "Microscope",
+		"local_image_path": "product_images\\Microscope_RF4_RF7050TVP.jpeg",
+		"relative_image_path": "Microscope_RF4_RF7050TVP.jpeg"
+	},
+	{
+		"name": "Relife  RL-0041",
+		"price": 650,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/wbOhHf87.jpeg",
+		"category": "Microscope",
+		"local_image_path": "product_images\\Microscope_Relife__RL0041.jpeg",
+		"relative_image_path": "Microscope_Relife__RL0041.jpeg"
+	},
+	{
+		"name": "Relife  5x , 7x Lens",
+		"price": 950,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Hb8tOVZ1.jpeg",
+		"category": "Microscope",
+		"local_image_path": "product_images\\Microscope_Relife__5x__7x_Lens.jpeg",
+		"relative_image_path": "Microscope_Relife__5x__7x_Lens.jpeg"
+	},
+	{
+		"name": "Microscope Limit Lock",
+		"price": 400,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/0fqLOhp0.jpeg",
+		"category": "Microscope",
+		"local_image_path": "product_images\\Microscope_Microscope_Limit_Lock.jpeg",
+		"relative_image_path": "Microscope_Microscope_Limit_Lock.jpeg"
+	},
+	{
+		"name": "Forward Zoom Camera",
+		"price": 25500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/2zNPJZ99.jpeg",
+		"category": "Microscope",
+		"local_image_path": "product_images\\Microscope_Forward_Zoom_Camera.jpeg",
+		"relative_image_path": "Microscope_Forward_Zoom_Camera.jpeg"
+	},
+	{
+		"name": "Microscope RF4 Boomm Stand Rf7050-Tvw",
+		"price": 24500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/boPliZDd.jpeg",
+		"category": "Microscope",
+		"local_image_path": "product_images\\Microscope_Microscope_RF4_Boomm_Stand_Rf7050Tvw.jpeg",
+		"relative_image_path": "Microscope_Microscope_RF4_Boomm_Stand_Rf7050Tvw.jpeg"
+	},
+	{
+		"name": "Kaisi TX-305E",
+		"price": 16500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/0gTjaxpv.jpeg",
+		"category": "Microscope",
+		"local_image_path": "product_images\\Microscope_Kaisi_TX305E.jpeg",
+		"relative_image_path": "Microscope_Kaisi_TX305E.jpeg"
+	},
+	{
+		"name": "TE-506 Micropes Multipurpose Heat Insulation Working Pads",
+		"price": 1900,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/u2zzAPcT.jpeg",
+		"category": "Microscope",
+		"local_image_path": "product_images\\Microscope_TE506_Micropes_Multipurpose_Heat_Insulation_Working_Pads.jpeg",
+		"relative_image_path": "Microscope_TE506_Micropes_Multipurpose_Heat_Insulation_Working_Pads.jpeg"
+	},
+	{
+		"name": "Sunshine Magnifier",
+		"price": 300,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/ADish79G.jpeg",
+		"category": "Microscope",
+		"local_image_path": "product_images\\Microscope_Sunshine_Magnifier.jpeg",
+		"relative_image_path": "Microscope_Sunshine_Magnifier.jpeg"
+	},
+	{
+		"name": "Sunshine Digital Microscope DM-1000S",
+		"price": 1900,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/yer2CrHy.jpeg",
+		"category": "Microscope",
+		"local_image_path": "product_images\\Microscope_Sunshine_Digital_Microscope_DM1000S.jpeg",
+		"relative_image_path": "Microscope_Sunshine_Digital_Microscope_DM1000S.jpeg"
+	},
+	{
+		"name": "OSS team T12-x Soldering Iron",
+		"price": 2700,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/wTd8nUBn.jpeg",
+		"category": "Soldering-iron",
+		"local_image_path": "product_images\\Soldering-iron_OSS_team_T12x_Soldering_Iron.jpeg",
+		"relative_image_path": "Soldering-iron_OSS_team_T12x_Soldering_Iron.jpeg"
+	},
+	{
+		"name": "Soldron Iron",
+		"price": 300,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/uva4OcXR.jpeg",
+		"category": "Soldering-iron",
+		"local_image_path": "product_images\\Soldering-iron_Soldron_Iron.jpeg",
+		"relative_image_path": "Soldering-iron_Soldron_Iron.jpeg"
+	},
+	{
+		"name": "Koccu V502",
+		"price": 250,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/1KGfcG4J.jpeg",
+		"category": "Soldering-iron",
+		"local_image_path": "product_images\\Soldering-iron_Koccu_V502.jpeg",
+		"relative_image_path": "Soldering-iron_Koccu_V502.jpeg"
+	},
+	{
+		"name": "Sunshine Soldering Iron (adjustable)",
+		"price": 550,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/vAwLnBtI.jpeg",
+		"category": "Soldering-iron",
+		"local_image_path": "product_images\\Soldering-iron_Sunshine_Soldering_Iron_adjustable.jpeg",
+		"relative_image_path": "Soldering-iron_Sunshine_Soldering_Iron_adjustable.jpeg"
+	},
+	{
+		"name": "Koccu V501",
+		"price": 350,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/496KAs1H.jpeg",
+		"category": "Soldering-iron",
+		"local_image_path": "product_images\\Soldering-iron_Koccu_V501.jpeg",
+		"relative_image_path": "Soldering-iron_Koccu_V501.jpeg"
+	},
+	{
+		"name": "BAKU BK-460",
+		"price": 550,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/TrBgA8sz.jpeg",
+		"category": "Soldering-iron",
+		"local_image_path": "product_images\\Soldering-iron_BAKU_BK460.jpeg",
+		"relative_image_path": "Soldering-iron_BAKU_BK460.jpeg"
+	},
+	{
+		"name": "BAKU Soldering Iron",
+		"price": 350,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/5gqf7ne8.jpeg",
+		"category": "Soldering-iron",
+		"local_image_path": "product_images\\Soldering-iron_BAKU_Soldering_Iron.jpeg",
+		"relative_image_path": "Soldering-iron_BAKU_Soldering_Iron.jpeg"
+	},
+	{
+		"name": "Maxx Soldering Iron(30 Watt)",
+		"price": 350,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/8Gfd7edA.jpeg",
+		"category": "Soldering-iron",
+		"local_image_path": "product_images\\Soldering-iron_Maxx_Soldering_Iron30_Watt.jpeg",
+		"relative_image_path": "Soldering-iron_Maxx_Soldering_Iron30_Watt.jpeg"
+	},
+	{
+		"name": "Maxx Soldering Iron (25 Watts)",
+		"price": 350,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/6OujkyBV.jpeg",
+		"category": "Soldering-iron",
+		"local_image_path": "product_images\\Soldering-iron_Maxx_Soldering_Iron_25_Watts.jpeg",
+		"relative_image_path": "Soldering-iron_Maxx_Soldering_Iron_25_Watts.jpeg"
+	},
+	{
+		"name": "Micro Soldering Pen",
+		"price": 100,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/pJrCAQCK.jpeg",
+		"category": "Soldering-iron",
+		"local_image_path": "product_images\\Soldering-iron_Micro_Soldering_Pen.jpeg",
+		"relative_image_path": "Soldering-iron_Micro_Soldering_Pen.jpeg"
+	},
+	{
+		"name": "BAKU-938 Mini Soldering Station",
+		"price": 950,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/9PhD7pz3.jpeg",
+		"category": "Soldering-iron",
+		"local_image_path": "product_images\\Soldering-iron_BAKU938_Mini_Soldering_Station.jpeg",
+		"relative_image_path": "Soldering-iron_BAKU938_Mini_Soldering_Station.jpeg"
+	},
+	{
+		"name": "Sunshine SS-928D",
+		"price": 1500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/9HOTyfpc.jpeg",
+		"category": "Soldering-iron",
+		"local_image_path": "product_images\\Soldering-iron_Sunshine_SS928D.jpeg",
+		"relative_image_path": "Soldering-iron_Sunshine_SS928D.jpeg"
+	},
+	{
+		"name": "Bakku BK- 936",
+		"price": 1500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/5cXXktc7.jpeg",
+		"category": "Soldering-iron",
+		"local_image_path": "product_images\\Soldering-iron_Bakku_BK_936.jpeg",
+		"relative_image_path": "Soldering-iron_Bakku_BK_936.jpeg"
+	},
+	{
+		"name": "Mechanic. - 936D",
+		"price": 2600,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/ZtskcYcK.jpeg",
+		"category": "Soldering-iron",
+		"local_image_path": "product_images\\Soldering-iron_Mechanic__936D.jpeg",
+		"relative_image_path": "Soldering-iron_Mechanic__936D.jpeg"
+	},
+	{
+		"name": "OSS Team C 210 - 002,018,020.",
+		"price": 500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/gTigUPLK.jpeg",
+		"category": "Soldering-iron",
+		"local_image_path": "product_images\\Soldering-iron_OSS_Team_C_210__002018020.jpeg",
+		"relative_image_path": "Soldering-iron_OSS_Team_C_210__002018020.jpeg"
+	},
+	{
+		"name": "OSS TEAM T210",
+		"price": 4200,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/iW2VUlN9.jpeg",
+		"category": "Soldering-iron",
+		"local_image_path": "product_images\\Soldering-iron_OSS_TEAM_T210.jpeg",
+		"relative_image_path": "Soldering-iron_OSS_TEAM_T210.jpeg"
+	},
+	{
+		"name": "Oss Team T12D+",
+		"price": 1950,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/OMFs40HQ.jpeg",
+		"category": "Soldering-iron",
+		"local_image_path": "product_images\\Soldering-iron_Oss_Team_T12D.jpeg",
+		"relative_image_path": "Soldering-iron_Oss_Team_T12D.jpeg"
+	},
+	{
+		"name": "Oss Team T12X Plus",
+		"price": 2700,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/iRLFcffv.jpeg",
+		"category": "Soldering-iron",
+		"local_image_path": "product_images\\Soldering-iron_Oss_Team_T12X_Plus.jpeg",
+		"relative_image_path": "Soldering-iron_Oss_Team_T12X_Plus.jpeg"
+	},
+	{
+		"name": "Sugon T26D Lead Free",
+		"price": 10900,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/q4UYCdB6.jpeg",
+		"category": "Soldering-iron",
+		"local_image_path": "product_images\\Soldering-iron_Sugon_T26D_Lead_Free.jpeg",
+		"relative_image_path": "Soldering-iron_Sugon_T26D_Lead_Free.jpeg"
+	},
+	{
+		"name": "Mechanic HK-936D",
+		"price": 2600,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/8g6IRywg.jpeg",
+		"category": "Soldering-iron",
+		"local_image_path": "product_images\\Soldering-iron_Mechanic_HK936D.jpeg",
+		"relative_image_path": "Soldering-iron_Mechanic_HK936D.jpeg"
+	},
+	{
+		"name": "NASAN LCD seperator ",
+		"price": 2900,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/woQlOVFz.jpeg",
+		"category": "LCD seperator",
+		"local_image_path": "product_images\\LCD_seperator_NASAN_LCD_seperator.jpeg",
+		"relative_image_path": "LCD_seperator_NASAN_LCD_seperator.jpeg"
+	},
+	{
+		"name": "Bakku 948c",
+		"price": 3700,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/z3Lgldsn.jpeg",
+		"category": "LCD seperator",
+		"local_image_path": "product_images\\LCD_seperator_Bakku_948c.jpeg",
+		"relative_image_path": "LCD_seperator_Bakku_948c.jpeg"
+	},
+	{
+		"name": "MECHANIC MCN-1911",
+		"price": 3900,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/mOvmOUjf.jpeg",
+		"category": "LCD seperator",
+		"local_image_path": "product_images\\LCD_seperator_MECHANIC_MCN1911.jpeg",
+		"relative_image_path": "LCD_seperator_MECHANIC_MCN1911.jpeg"
+	},
+	{
+		"name": "M Triangel",
+		"price": 2700,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/hGNoGgS6.jpeg",
+		"category": "LCD seperator",
+		"local_image_path": "product_images\\LCD_seperator_M_Triangel.jpeg",
+		"relative_image_path": "LCD_seperator_M_Triangel.jpeg"
+	},
+	{
+		"name": "LCD Suparatar",
+		"price": 2900,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/KciA3EaK.jpeg",
+		"category": "LCD seperator",
+		"local_image_path": "product_images\\LCD_seperator_LCD_Suparatar.jpeg",
+		"relative_image_path": "LCD_seperator_LCD_Suparatar.jpeg"
+	},
+	{
+		"name": "RED SEA",
+		"price": 5300,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Wc0vsX8P.jpeg",
+		"category": "LCD seperator",
+		"local_image_path": "product_images\\LCD_seperator_RED_SEA.jpeg",
+		"relative_image_path": "LCD_seperator_RED_SEA.jpeg"
+	},
+	{
+		"name": "Sunshine S-918F",
+		"price": 5600,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/8VICp1QM.jpeg",
+		"category": "LCD seperator",
+		"local_image_path": "product_images\\LCD_seperator_Sunshine_S918F.jpeg",
+		"relative_image_path": "LCD_seperator_Sunshine_S918F.jpeg"
+	},
+	{
+		"name": "Bakku Cutting Wire 0.04mm  200m",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/WFCxTQvF.jpeg",
+		"category": "LCD seperator",
+		"local_image_path": "product_images\\LCD_seperator_Bakku_Cutting_Wire_004mm__200m.jpeg",
+		"relative_image_path": "LCD_seperator_Bakku_Cutting_Wire_004mm__200m.jpeg"
+	},
+	{
+		"name": "Koocu  Cutting Wire 100m",
+		"price": 100,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/1vnoXUHd.jpeg",
+		"category": "LCD seperator",
+		"local_image_path": "product_images\\LCD_seperator_Koocu__Cutting_Wire_100m.jpeg",
+		"relative_image_path": "LCD_seperator_Koocu__Cutting_Wire_100m.jpeg"
+	},
+	{
+		"name": "SHREE Screen Separator",
+		"price": 2400,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/JlYokZFZ.jpeg",
+		"category": "LCD seperator",
+		"local_image_path": "product_images\\LCD_seperator_SHREE_Screen_Separator.jpeg",
+		"relative_image_path": "LCD_seperator_SHREE_Screen_Separator.jpeg"
+	},
+	{
+		"name": "Sunshine S918F Plus",
+		"price": 7500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/E9g9FNPt.jpeg",
+		"category": "LCD seperator",
+		"local_image_path": "product_images\\LCD_seperator_Sunshine_S918F_Plus.jpeg",
+		"relative_image_path": "LCD_seperator_Sunshine_S918F_Plus.jpeg"
+	},
+	{
+		"name": "FW-361MAX Ford 7 IN 1 Separator",
+		"price": 6500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/twvCQVgL.jpeg",
+		"category": "LCD seperator",
+		"local_image_path": "product_images\\LCD_seperator_FW361MAX_Ford_7_IN_1_Separator.jpeg",
+		"relative_image_path": "LCD_seperator_FW361MAX_Ford_7_IN_1_Separator.jpeg"
+	},
+	{
+		"name": "Screen Seperator S-918L",
+		"price": 2000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/9y1RrM5M.jpeg",
+		"category": "LCD seperator",
+		"local_image_path": "product_images\\LCD_seperator_Screen_Seperator_S918L.jpeg",
+		"relative_image_path": "LCD_seperator_Screen_Seperator_S918L.jpeg"
+	},
+	{
+		"name": "Vaccum Seperator S-918R",
+		"price": 6400,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/UYzqcqO5.jpeg",
+		"category": "LCD seperator",
+		"local_image_path": "product_images\\LCD_seperator_Vaccum_Seperator_S918R.jpeg",
+		"relative_image_path": "LCD_seperator_Vaccum_Seperator_S918R.jpeg"
+	},
+	{
+		"name": "7 in 1 Edge Seperator",
+		"price": 6500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Y0OwJTnb.jpeg",
+		"category": "LCD seperator",
+		"local_image_path": "product_images\\LCD_seperator_7_in_1_Edge_Seperator.jpeg",
+		"relative_image_path": "LCD_seperator_7_in_1_Edge_Seperator.jpeg"
+	},
+	{
+		"name": "SEPARATOR S-918L",
+		"price": 2000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/OsucEmeQ.webp",
+		"category": "LCD seperator",
+		"local_image_path": "product_images\\LCD_seperator_SEPARATOR_S918L.webp",
+		"relative_image_path": "LCD_seperator_SEPARATOR_S918L.webp"
+	},
+	{
+		"name": "Mechanic VC04",
+		"price": 2850,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/nzOy9Cuk.jpeg",
+		"category": "Shot killer",
+		"local_image_path": "product_images\\Shot_killer_Mechanic_VC04.jpeg",
+		"relative_image_path": "Shot_killer_Mechanic_VC04.jpeg"
+	},
+	{
+		"name": "Sunshine P30A Shot Killer",
+		"price": 4500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/3Gn7yanE.jpeg",
+		"category": "Shot killer",
+		"local_image_path": "product_images\\Shot_killer_Sunshine_P30A_Shot_Killer.jpeg",
+		"relative_image_path": "Shot_killer_Sunshine_P30A_Shot_Killer.jpeg"
+	},
+	{
+		"name": "BAKU Nose Plier",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/j0fLvay2.jpeg",
+		"category": "Tools",
+		"local_image_path": "product_images\\Tools_BAKU_Nose_Plier.jpeg",
+		"relative_image_path": "Tools_BAKU_Nose_Plier.jpeg"
+	},
+	{
+		"name": "BAKU Nose Plier(bend Type)",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/lfUCaA6i.jpeg",
+		"category": "Tools",
+		"local_image_path": "product_images\\Tools_BAKU_Nose_Plierbend_Type.jpeg",
+		"relative_image_path": "Tools_BAKU_Nose_Plierbend_Type.jpeg"
+	},
+	{
+		"name": "MECHANIC E8000",
+		"price": 100,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Ka2FgCzm.jpeg",
+		"category": "Tools",
+		"local_image_path": "product_images\\Tools_MECHANIC_E8000.jpeg",
+		"relative_image_path": "Tools_MECHANIC_E8000.jpeg"
+	},
+	{
+		"name": "MECHANIC T7000",
+		"price": 100,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Ap5q4nUd.jpeg",
+		"category": "Tools",
+		"local_image_path": "product_images\\Tools_MECHANIC_T7000.jpeg",
+		"relative_image_path": "Tools_MECHANIC_T7000.jpeg"
+	},
+	{
+		"name": "RELIFE CP-0002",
+		"price": 100,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/kG7FDK6U.jpeg",
+		"category": "Tools",
+		"local_image_path": "product_images\\Tools_RELIFE_CP0002.jpeg",
+		"relative_image_path": "Tools_RELIFE_CP0002.jpeg"
+	},
+	{
+		"name": "RELIFE CP-0001",
+		"price": 100,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Gxqy09VE.jpeg",
+		"category": "Tools",
+		"local_image_path": "product_images\\Tools_RELIFE_CP0001.jpeg",
+		"relative_image_path": "Tools_RELIFE_CP0001.jpeg"
+	},
+	{
+		"name": "Bakku Cutting Wire 0.04mm 200m",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/fAFHzSgo.jpeg",
+		"category": "Tools",
+		"local_image_path": "product_images\\Tools_Bakku_Cutting_Wire_004mm_200m.jpeg",
+		"relative_image_path": "Tools_Bakku_Cutting_Wire_004mm_200m.jpeg"
+	},
+	{
+		"name": "Relife RL-721 Tool",
+		"price": 0,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/tTHV1bEd.jpeg",
+		"category": "Tools",
+		"local_image_path": "product_images\\Tools_Relife_RL721_Tool.jpeg",
+		"relative_image_path": "Tools_Relife_RL721_Tool.jpeg"
+	},
+	{
+		"name": "Sunshine Cleaning Brush",
+		"price": 40,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/J61ppLCa.jpeg",
+		"category": "Tools",
+		"local_image_path": "product_images\\Tools_Sunshine_Cleaning_Brush.jpeg",
+		"relative_image_path": "Tools_Sunshine_Cleaning_Brush.jpeg"
+	},
+	{
+		"name": "Relife Tip Cleaner",
+		"price": 200,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/aMw9g7Ug.jpeg",
+		"category": "Tools",
+		"local_image_path": "product_images\\Tools_Relife_Tip_Cleaner.jpeg",
+		"relative_image_path": "Tools_Relife_Tip_Cleaner.jpeg"
+	},
+	{
+		"name": "Relife Short Circuit Detection RL 069A/B",
+		"price": 750,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/86AdzwHE.jpeg",
+		"category": "Tools",
+		"local_image_path": "product_images\\Tools_Relife_Short_Circuit_Detection_RL_069AB.jpeg",
+		"relative_image_path": "Tools_Relife_Short_Circuit_Detection_RL_069AB.jpeg"
+	},
+	{
+		"name": "Sunshine Opening Tool",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/ZVGbCkEt.jpeg",
+		"category": "Tools",
+		"local_image_path": "product_images\\Tools_Sunshine_Opening_Tool.jpeg",
+		"relative_image_path": "Tools_Sunshine_Opening_Tool.jpeg"
+	},
+	{
+		"name": "Mechanic Tool Imini 1.5, 0.6, 0.8",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/YDAVm6tj.jpeg",
+		"category": "Tools",
+		"local_image_path": "product_images\\Tools_Mechanic_Tool_Imini_15_06_08.jpeg",
+		"relative_image_path": "Tools_Mechanic_Tool_Imini_15_06_08.jpeg"
+	},
+	{
+		"name": "Mechanic IR10 PRO",
+		"price": 1100,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/2Qflzc9y.jpeg",
+		"category": "Tools",
+		"local_image_path": "product_images\\Tools_Mechanic_IR10_PRO.jpeg",
+		"relative_image_path": "Tools_Mechanic_IR10_PRO.jpeg"
+	},
+	{
+		"name": "Mechanic BA 27",
+		"price": 1100,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/cFsABsvK.jpeg",
+		"category": "Tools",
+		"local_image_path": "product_images\\Tools_Mechanic_BA_27.jpeg",
+		"relative_image_path": "Tools_Mechanic_BA_27.jpeg"
+	},
+	{
+		"name": "Sunshine Model:Ss-001A",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/stkLyLeG.jpeg",
+		"category": "Tools",
+		"local_image_path": "product_images\\Tools_Sunshine_ModelSs001A.jpeg",
+		"relative_image_path": "Tools_Sunshine_ModelSs001A.jpeg"
+	},
+	{
+		"name": "B&R TS-140",
+		"price": 350,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/DfM8gN6m.jpeg",
+		"category": "Tools",
+		"local_image_path": "product_images\\Tools_BR_TS140.jpeg",
+		"relative_image_path": "Tools_BR_TS140.jpeg"
+	},
+	{
+		"name": "Mechanic CT50",
+		"price": 350,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Op9xcaSn.jpeg",
+		"category": "Tools",
+		"local_image_path": "product_images\\Tools_Mechanic_CT50.jpeg",
+		"relative_image_path": "Tools_Mechanic_CT50.jpeg"
+	},
+	{
+		"name": "BAKU  BK-108",
+		"price": 100,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/KSKaPnvT.jpeg",
+		"category": "Tools",
+		"local_image_path": "product_images\\Tools_BAKU__BK108.jpeg",
+		"relative_image_path": "Tools_BAKU__BK108.jpeg"
+	},
+	{
+		"name": "BAKKU BK-109",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/YdsDVPu0.jpeg",
+		"category": "Tools",
+		"local_image_path": "product_images\\Tools_BAKKU_BK109.jpeg",
+		"relative_image_path": "Tools_BAKKU_BK109.jpeg"
+	},
+	{
+		"name": "BGA repair Blade Set",
+		"price": 0,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/GIK0Fbtm.jpeg",
+		"category": "Knife set",
+		"local_image_path": "product_images\\Knife_set_BGA_repair_Blade_Set.jpeg",
+		"relative_image_path": "Knife_set_BGA_repair_Blade_Set.jpeg"
+	},
+	{
+		"name": "MECHANIC Blade Set 4 in 1",
+		"price": 0,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/FIKB3NBd.jpeg",
+		"category": "Knife set",
+		"local_image_path": "product_images\\Knife_set_MECHANIC_Blade_Set_4_in_1.jpeg",
+		"relative_image_path": "Knife_set_MECHANIC_Blade_Set_4_in_1.jpeg"
+	},
+	{
+		"name": "CPU Knife Set",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/4AHv9rET.jpeg",
+		"category": "Knife set",
+		"local_image_path": "product_images\\Knife_set_CPU_Knife_Set.jpeg",
+		"relative_image_path": "Knife_set_CPU_Knife_Set.jpeg"
+	},
+	{
+		"name": "CPU Knife",
+		"price": 400,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/zU1Gx1bS.jpeg",
+		"category": "Knife set",
+		"local_image_path": "product_images\\Knife_set_CPU_Knife.jpeg",
+		"relative_image_path": "Knife_set_CPU_Knife.jpeg"
+	},
+	{
+		"name": "Relife CPU Knife Set",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/XLT3SQIn.jpeg",
+		"category": "Knife set",
+		"local_image_path": "product_images\\Knife_set_Relife_CPU_Knife_Set.jpeg",
+		"relative_image_path": "Knife_set_Relife_CPU_Knife_Set.jpeg"
+	},
+	{
+		"name": "Relief Knife RL-101E",
+		"price": 100,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/QzyBBv2f.jpeg",
+		"category": "Knife set",
+		"local_image_path": "product_images\\Knife_set_Relief_Knife_RL101E.jpeg",
+		"relative_image_path": "Knife_set_Relief_Knife_RL101E.jpeg"
+	},
+	{
+		"name": "Sunshine IC Remover",
+		"price": 350,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/bdtO0usR.jpeg",
+		"category": "Knife set",
+		"local_image_path": "product_images\\Knife_set_Sunshine_IC_Remover.jpeg",
+		"relative_image_path": "Knife_set_Sunshine_IC_Remover.jpeg"
+	},
+	{
+		"name": "Mechanic. Cpu Knife Set",
+		"price": 650,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/b8HbIclS.jpeg",
+		"category": "Knife set",
+		"local_image_path": "product_images\\Knife_set_Mechanic_Cpu_Knife_Set.jpeg",
+		"relative_image_path": "Knife_set_Mechanic_Cpu_Knife_Set.jpeg"
+	},
+	{
+		"name": "2UUL",
+		"price": 700,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/KeiuRcFY.jpeg",
+		"category": "Knife set",
+		"local_image_path": "product_images\\Knife_set_2UUL.jpeg",
+		"relative_image_path": "Knife_set_2UUL.jpeg"
+	},
+	{
+		"name": "B&R Knife Set",
+		"price": 450,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/7CoTO8aK.jpeg",
+		"category": "Knife set",
+		"local_image_path": "product_images\\Knife_set_BR_Knife_Set.jpeg",
+		"relative_image_path": "Knife_set_BR_Knife_Set.jpeg"
+	},
+	{
+		"name": "Relife RL-1000E Board Cleaner",
+		"price": 500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/yBfpZbHi.jpeg",
+		"category": "Cleaning liquid and spray",
+		"local_image_path": "product_images\\Cleaning_liquid_and_spray_Relife_RL1000E_Board_Cleaner.jpeg",
+		"relative_image_path": "Cleaning_liquid_and_spray_Relife_RL1000E_Board_Cleaner.jpeg"
+	},
+	{
+		"name": "Relife Frame Removal Glue RL-518A",
+		"price": 300,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/QpgxPznh.jpeg",
+		"category": "Cleaning liquid and spray",
+		"local_image_path": "product_images\\Cleaning_liquid_and_spray_Relife_Frame_Removal_Glue_RL518A.jpeg",
+		"relative_image_path": "Cleaning_liquid_and_spray_Relife_Frame_Removal_Glue_RL518A.jpeg"
+	},
+	{
+		"name": "Mechanic.Cleaning PCP Board 850",
+		"price": 500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/4fv0C29D.jpeg",
+		"category": "Cleaning liquid and spray",
+		"local_image_path": "product_images\\Cleaning_liquid_and_spray_MechanicCleaning_PCP_Board_850.jpeg",
+		"relative_image_path": "Cleaning_liquid_and_spray_MechanicCleaning_PCP_Board_850.jpeg"
+	},
+	{
+		"name": "Mechanic Soldering Tip Refresh Oil",
+		"price": 300,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/XNf1cCyc.jpeg",
+		"category": "Cleaning liquid and spray",
+		"local_image_path": "product_images\\Cleaning_liquid_and_spray_Mechanic_Soldering_Tip_Refresh_Oil.jpeg",
+		"relative_image_path": "Cleaning_liquid_and_spray_Mechanic_Soldering_Tip_Refresh_Oil.jpeg"
+	},
+	{
+		"name": "Mechanic BGA-IC QC-20",
+		"price": 350,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/rmOlw2Uy.jpeg",
+		"category": "Cleaning liquid and spray",
+		"local_image_path": "product_images\\Cleaning_liquid_and_spray_Mechanic_BGAIC_QC20.jpeg",
+		"relative_image_path": "Cleaning_liquid_and_spray_Mechanic_BGAIC_QC20.jpeg"
+	},
+	{
+		"name": "Mechanic 530cleaner / Polish For Screen",
+		"price": 180,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/CKNcf7Y4.jpeg",
+		"category": "Cleaning liquid and spray",
+		"local_image_path": "product_images\\Cleaning_liquid_and_spray_Mechanic_530cleaner__Polish_For_Screen.jpeg",
+		"relative_image_path": "Cleaning_liquid_and_spray_Mechanic_530cleaner__Polish_For_Screen.jpeg"
+	},
+	{
+		"name": "Sunshine SS 599B",
+		"price": 180,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/14xJsA0b.jpeg",
+		"category": "Cleaning liquid and spray",
+		"local_image_path": "product_images\\Cleaning_liquid_and_spray_Sunshine_SS_599B.jpeg",
+		"relative_image_path": "Cleaning_liquid_and_spray_Sunshine_SS_599B.jpeg"
+	},
+	{
+		"name": "Sunshine Ultrasonic Cleaning Machine Ss-968",
+		"price": 1600,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/og4XHkyL.jpeg",
+		"category": "Cleaning liquid and spray",
+		"local_image_path": "product_images\\Cleaning_liquid_and_spray_Sunshine_Ultrasonic_Cleaning_Machine_Ss968.jpeg",
+		"relative_image_path": "Cleaning_liquid_and_spray_Sunshine_Ultrasonic_Cleaning_Machine_Ss968.jpeg"
+	},
+	{
+		"name": "TIP Clener",
+		"price": 80,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/JVoA774F.jpeg",
+		"category": "Cleaning liquid and spray",
+		"local_image_path": "product_images\\Cleaning_liquid_and_spray_TIP_Clener.jpeg",
+		"relative_image_path": "Cleaning_liquid_and_spray_TIP_Clener.jpeg"
+	},
+	{
+		"name": "SHREE  VACUUM OIL",
+		"price": 300,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/jTDbJghs.jpeg",
+		"category": "Cleaning liquid and spray",
+		"local_image_path": "product_images\\Cleaning_liquid_and_spray_SHREE__VACUUM_OIL.jpeg",
+		"relative_image_path": "Cleaning_liquid_and_spray_SHREE__VACUUM_OIL.jpeg"
+	},
+	{
+		"name": "OCA Bubble Remover CX2 Easy-off",
+		"price": 350,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/9O2Dupl0.jpeg",
+		"category": "Cleaning liquid and spray",
+		"local_image_path": "product_images\\Cleaning_liquid_and_spray_OCA_Bubble_Remover_CX2_Easyoff.jpeg",
+		"relative_image_path": "Cleaning_liquid_and_spray_OCA_Bubble_Remover_CX2_Easyoff.jpeg"
+	},
+	{
+		"name": "Sunshine Brush  (4 PCS)",
+		"price": 100,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/y4W7PdyY.jpeg",
+		"category": "Cleaning liquid and spray",
+		"local_image_path": "product_images\\Cleaning_liquid_and_spray_Sunshine_Brush__4_PCS.jpeg",
+		"relative_image_path": "Cleaning_liquid_and_spray_Sunshine_Brush__4_PCS.jpeg"
+	},
+	{
+		"name": "Sunshine 580",
+		"price": 750,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/b2OBZa7k.jpeg",
+		"category": "Cleaning liquid and spray",
+		"local_image_path": "product_images\\Cleaning_liquid_and_spray_Sunshine_580.jpeg",
+		"relative_image_path": "Cleaning_liquid_and_spray_Sunshine_580.jpeg"
+	},
+	{
+		"name": "Relife RL-1000 PCB Board Cleaning",
+		"price": 450,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/v0DwPLsN.jpeg",
+		"category": "Cleaning liquid and spray",
+		"local_image_path": "product_images\\Cleaning_liquid_and_spray_Relife_RL1000_PCB_Board_Cleaning.jpeg",
+		"relative_image_path": "Cleaning_liquid_and_spray_Relife_RL1000_PCB_Board_Cleaning.jpeg"
+	},
+	{
+		"name": "Falcon 530",
+		"price": 220,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/pM34tz1D.jpeg",
+		"category": "Cleaning liquid and spray",
+		"local_image_path": "product_images\\Cleaning_liquid_and_spray_Falcon_530.jpeg",
+		"relative_image_path": "Cleaning_liquid_and_spray_Falcon_530.jpeg"
+	},
+	{
+		"name": "Sunshine Ultrasonic Cleaning SS-6508T",
+		"price": 2550,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/E3gfCeWp.jpeg",
+		"category": "Cleaning liquid and spray",
+		"local_image_path": "product_images\\Cleaning_liquid_and_spray_Sunshine_Ultrasonic_Cleaning_SS6508T.jpeg",
+		"relative_image_path": "Cleaning_liquid_and_spray_Sunshine_Ultrasonic_Cleaning_SS6508T.jpeg"
+	},
+	{
+		"name": "MAX 936 IRON STAND",
+		"price": 200,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/CtsTb6Or.jpeg",
+		"category": "More Items",
+		"local_image_path": "product_images\\More_Items_MAX_936_IRON_STAND.jpeg",
+		"relative_image_path": "More_Items_MAX_936_IRON_STAND.jpeg"
+	},
+	{
+		"name": "IRON STAND",
+		"price": 80,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Um9xMvpA.jpeg",
+		"category": "More Items",
+		"local_image_path": "product_images\\More_Items_IRON_STAND.jpeg",
+		"relative_image_path": "More_Items_IRON_STAND.jpeg"
+	},
+	{
+		"name": "MAX IRON STAND",
+		"price": 100,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/J7kpdaGc.jpeg",
+		"category": "More Items",
+		"local_image_path": "product_images\\More_Items_MAX_IRON_STAND.jpeg",
+		"relative_image_path": "More_Items_MAX_IRON_STAND.jpeg"
+	},
+	{
+		"name": "Service Mat",
+		"price": 500,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/FJfu9gz3.jpeg",
+		"category": "More Items",
+		"local_image_path": "product_images\\More_Items_Service_Mat.jpeg",
+		"relative_image_path": "More_Items_Service_Mat.jpeg"
+	},
+	{
+		"name": "Sunshine USB",
+		"price": 0,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/KooKjKPk.jpeg",
+		"category": "More Items",
+		"local_image_path": "product_images\\More_Items_Sunshine_USB.jpeg",
+		"relative_image_path": "More_Items_Sunshine_USB.jpeg"
+	},
+	{
+		"name": "Bakku Tools Set BK-8800",
+		"price": 200,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/kM7rUzAy.jpeg",
+		"category": "More Items",
+		"local_image_path": "product_images\\More_Items_Bakku_Tools_Set_BK8800.jpeg",
+		"relative_image_path": "More_Items_Bakku_Tools_Set_BK8800.jpeg"
+	},
+	{
+		"name": "Mechanic Isell (1.5)(0.8)(0.6)",
+		"price": 750,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Luanc2Ke.jpeg",
+		"category": "More Items",
+		"local_image_path": "product_images\\More_Items_Mechanic_Isell_150806.jpeg",
+		"relative_image_path": "More_Items_Mechanic_Isell_150806.jpeg"
+	},
+	{
+		"name": "Relife RL-060",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/LVxTjgwT.jpeg",
+		"category": "High-precision disassembly ferler",
+		"local_image_path": "product_images\\High-precision_disassembly_ferler_Relife_RL060.jpeg",
+		"relative_image_path": "High-precision_disassembly_ferler_Relife_RL060.jpeg"
+	},
+	{
+		"name": "Sunshine",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/YPGHf8cU.jpeg",
+		"category": "other",
+		"local_image_path": "product_images\\other_Sunshine.jpeg",
+		"relative_image_path": "other_Sunshine.jpeg"
+	},
+	{
+		"name": "EYE GLASS",
+		"price": 50,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Go5z3ykW.jpeg",
+		"category": "other",
+		"local_image_path": "product_images\\other_EYE_GLASS.jpeg",
+		"relative_image_path": "other_EYE_GLASS.jpeg"
+	},
+	{
+		"name": "Mijing PM-11",
+		"price": 250,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/zMhVTOfU.jpeg",
+		"category": "other",
+		"local_image_path": "product_images\\other_Mijing_PM11.jpeg",
+		"relative_image_path": "other_Mijing_PM11.jpeg"
+	},
+	{
+		"name": "Storage Box  SS-001C   48 Crid",
+		"price": 850,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Rabqk4cU.jpeg",
+		"category": "other",
+		"local_image_path": "product_images\\other_Storage_Box__SS001C___48_Crid.jpeg",
+		"relative_image_path": "other_Storage_Box__SS001C___48_Crid.jpeg"
+	},
+	{
+		"name": "Phone Management Box 24 Grid",
+		"price": 550,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/cV8niL9d.jpeg",
+		"category": "other",
+		"local_image_path": "product_images\\other_Phone_Management_Box_24_Grid.jpeg",
+		"relative_image_path": "other_Phone_Management_Box_24_Grid.jpeg"
+	},
+	{
+		"name": "2 UUL Pre-Cut Thermal Pads",
+		"price": 350,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/7YEDlwTD.jpeg",
+		"category": "other",
+		"local_image_path": "product_images\\other_2_UUL_PreCut_Thermal_Pads.jpeg",
+		"relative_image_path": "other_2_UUL_PreCut_Thermal_Pads.jpeg"
+	},
+	{
+		"name": "Relife Mini Polish Pen",
+		"price": 1200,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/pORTDNsK.jpeg",
+		"category": "other",
+		"local_image_path": "product_images\\other_Relife_Mini_Polish_Pen.jpeg",
+		"relative_image_path": "other_Relife_Mini_Polish_Pen.jpeg"
+	},
+	{
+		"name": "Relife RL - 068 B",
+		"price": 1000,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/e9ITZqRK.jpeg",
+		"category": "other",
+		"local_image_path": "product_images\\other_Relife_RL__068_B.jpeg",
+		"relative_image_path": "other_Relife_RL__068_B.jpeg"
+	},
+	{
+		"name": "Sunshine Magnifier With Two LED Light",
+		"price": 260,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Ykch3F1w.jpeg",
+		"category": "other",
+		"local_image_path": "product_images\\other_Sunshine_Magnifier_With_Two_LED_Light.jpeg",
+		"relative_image_path": "other_Sunshine_Magnifier_With_Two_LED_Light.jpeg"
+	},
+	{
+		"name": "2UL Tool Is Cool",
+		"price": 750,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/UIcorqiw.jpeg",
+		"category": "other",
+		"local_image_path": "product_images\\other_2UL_Tool_Is_Cool.jpeg",
+		"relative_image_path": "other_2UL_Tool_Is_Cool.jpeg"
+	},
+	{
+		"name": "Shortcam",
+		"price": 0,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/2UCbmJbE.jpeg",
+		"category": "other",
+		"local_image_path": "product_images\\other_Shortcam.jpeg",
+		"relative_image_path": "other_Shortcam.jpeg"
+	},
+	{
+		"name": "Relife RL-079 Suction Cup With Ring",
+		"price": 50,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/DdgtkUkm.jpeg",
+		"category": "other",
+		"local_image_path": "product_images\\other_Relife_RL079_Suction_Cup_With_Ring.jpeg",
+		"relative_image_path": "other_Relife_RL079_Suction_Cup_With_Ring.jpeg"
+	},
+	{
+		"name": "Relife Ceramic Glue Remover (RL-023A)",
+		"price": 150,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/gheUqmyv.jpeg",
+		"category": "other",
+		"local_image_path": "product_images\\other_Relife_Ceramic_Glue_Remover_RL023A.jpeg",
+		"relative_image_path": "other_Relife_Ceramic_Glue_Remover_RL023A.jpeg"
+	},
+	{
+		"name": "Relife RL-088",
+		"price": 650,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/a03iEwCp.jpeg",
+		"category": "other",
+		"local_image_path": "product_images\\other_Relife_RL088.jpeg",
+		"relative_image_path": "other_Relife_RL088.jpeg"
+	},
+	{
+		"name": "Relife Magnetiser RL-076",
+		"price": 80,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/pHh5eSV9.jpeg",
+		"category": "other",
+		"local_image_path": "product_images\\other_Relife_Magnetiser_RL076.jpeg",
+		"relative_image_path": "other_Relife_Magnetiser_RL076.jpeg"
+	},
+	{
+		"name": "MECHANIC cooling curing fan CUV-3",
+		"price": 850,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/Wmu7aqCL.webp",
+		"category": "other",
+		"local_image_path": "product_images\\other_MECHANIC_cooling_curing_fan_CUV3.webp",
+		"relative_image_path": "other_MECHANIC_cooling_curing_fan_CUV3.webp"
+	},
+	{
+		"name": "2UUL PW 21",
+		"price": 850,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/LFzaBRxQ.webp",
+		"category": "other",
+		"local_image_path": "product_images\\other_2UUL_PW_21.webp",
+		"relative_image_path": "other_2UUL_PW_21.webp"
+	},
+	{
+		"name": "RL-001H",
+		"price": 950,
+		"available": 1,
+		"image_url": "https://cdn.dotpe.in/longtail/store-items/5743201/hYWgcIL0.webp",
+		"category": "other",
+		"local_image_path": "product_images\\other_RL001H.webp",
+		"relative_image_path": "other_RL001H.webp"
+	}
+]
