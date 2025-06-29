@@ -19,7 +19,7 @@ const Navbar: React.FC = () => {
             <span className="text-2xl font-bold text-black-800">Shree Mobiles</span>
             </span>
             <nav className="space-x-6">
-                <Link href="/contact" className="text-gray-800 font-semibold hover:text-blue-600 transition">
+                <Link href="/" className="text-gray-800 font-semibold hover:text-blue-600 transition">
                     Home
                 </Link>
                 <Link href="/shop" className="text-gray-800 font-semibold hover:text-blue-600 transitisson">

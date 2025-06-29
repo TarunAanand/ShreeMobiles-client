@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Mobile Repairing tools",
+        "subcategories": [
+            "SMD Rework Station",
+            "Power Supply",
+            "Multimeter",
+            "Seperator",
+            "Liquid",
+            "Tape",
+            "Cutters",
+            "Blade",
+            "Fixture & PCB stand",
+            "Mat & rubber",
+            "Opening Tool set",
+            "Paste",
+            "ScrewDriver Tool kit",
+            "Tweezers",
+            "Power supply Cable",
+            "Light",
+            "Cloth",
+            "Microscope",
+            "Activation board",
+            "Soldering Iron",
+            "Glue Remover meter",
+            "Electronic Screw driver",
+            "Brush"
+        ]
+    },
+    {
+        "name": "Mobile Accessories",
+        "subcategories": []
+    },
+    {
+        "name": "Spare parts",
+        "subcategories": []
+    },
+    {
+        "name": "Software",
+        "subcategories": []
+    },
+    {
+        "name": "OCA machine parts",
+        "subcategories": []
+    },
+    {
+        "name": "Plotter skin",
+        "subcategories": []
+    },
+    {
+        "name": "Coming soon",
+        "subcategories": []
+    },
+    {
+        "name": "other",
+        "subcategories": []
+    }
+]
